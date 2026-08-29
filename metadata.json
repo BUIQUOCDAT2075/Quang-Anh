@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Quản Lý Học Sinh THCS",
+  "description": "Một ứng dụng quản lý học sinh toàn diện dành cho các trường THCS, bao gồm quản lý hồ sơ, nhập điểm, theo dõi nề nếp và báo cáo thống kê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
